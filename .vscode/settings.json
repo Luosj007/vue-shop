@@ -1,0 +1,5 @@
+{
+    "vue.codeLens.enabled": false,
+    "vue.autoInsert.bracketSpacing": false,
+    "vue.updateImportsOnFileMove.enabled": true
+}
